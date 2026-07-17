@@ -4,7 +4,7 @@
 
 ### AI Expert Developer · Data Assurance × Advanced Analytics Engineering Leader
 
-*I make enterprise data trustworthy, intelligent, and robust.*
+*I make enterprise data trustworthy, intelligent, and fraud-proof.*
 
 [![Website](https://img.shields.io/badge/Portfolio-blesshotor.github.io-39d3bb?style=flat-square&logo=googlechrome&logoColor=white)](https://blesshotor.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bless_Hotor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bless-hotor-bsc-cisa-069a1b29/)
@@ -17,7 +17,7 @@
 **15+ years** building the systems that decide whether billions in subscription, media, advertising, and card-payment revenue are **accurate, compliant, and safe** — at SiriusXM, Pandora Media Ads, and across telecom, integrating with Chase Paymentech, Global Payments, and Worldpay.
 
 ```text
-$21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M loss safeguarded
+$21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M fraud prevented
 34% fraud reduction      ·  6,000+ man-hours saved annually      ·  Forecasting within 1%
 ```
 
@@ -30,10 +30,11 @@ $21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M loss 
 | 🕵️ **Fraud & Payments Intelligence** | Predictive fraud scoring · anomaly detection · card brand rules, interchange & chargeback lifecycle · PCI-DSS |
 | 🛡️ **Compliance as Code** | SOX/ICFR controls embedded in pipelines · data contracts · lineage · audit-ready by design (CISA) |
 
-## 🚀 Building in public
+## 🚀 Projects
 
 | Project | What it is |
 |---|---|
+| ⚡ **[EV Charging Infrastructure Forecast](https://github.com/blesshotor/ev-charging-infrastructure-forecast)** | ML forecasting of charging-station deployment in Washington State — Prophet · XGBoost · ARIMA, equity-focused (M.S. capstone) |
 | **RevGuard** | Open-source data assurance engine on the Lakehouse — reconcile, detect, prove |
 | **FraudLens AI** | LLM copilot that triages fraud anomalies and drafts investigation memos |
 | **SOX-as-Code** | SOX/ICFR controls as executable pipeline checks with auto-generated audit evidence |
