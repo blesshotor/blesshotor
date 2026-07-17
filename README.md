@@ -4,7 +4,7 @@
 
 ### AI Expert Developer · Data Assurance × Advanced Analytics Engineering Leader
 
-*I make enterprise data trustworthy, intelligent, and fraud-proof.*
+*I make enterprise data trustworthy, intelligent, and robust.*
 
 [![Website](https://img.shields.io/badge/Portfolio-blesshotor.github.io-39d3bb?style=flat-square&logo=googlechrome&logoColor=white)](https://blesshotor.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bless_Hotor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bless-hotor-bsc-cisa-069a1b29/)
