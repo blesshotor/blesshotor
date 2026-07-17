@@ -17,7 +17,7 @@
 **15+ years** building the systems that decide whether billions in subscription, media, advertising, and card-payment revenue are **accurate, compliant, and safe** — at SiriusXM, Pandora Media Ads, and across telecom, integrating with Chase Paymentech, Global Payments, and Worldpay.
 
 ```text
-$21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M loss safeguard
+$21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M loss safeguarded
 34% fraud reduction      ·  6,000+ man-hours saved annually      ·  Forecasting within 1%
 ```
 
