@@ -38,6 +38,7 @@ $21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M fraud
 | ⚡ **[RevGuard](https://github.com/blesshotor/revguard)** | Open-source data assurance engine — 10 controls-as-code catch planted revenue leakage, fee drift & fraud rings, then write audit evidence packs |
 | **FraudLens AI** | LLM copilot that triages fraud anomalies and drafts investigation memos |
 | 🛡️ **[SOX-as-Code](https://github.com/blesshotor/sox-as-code)** | SOX/ICFR controls as executable pipeline checks — YAML catalog, DLT & Great Expectations exports, CI gates, auto-generated audit evidence |
+| 📺 **[Ads Revenue Recognition Simulator](https://github.com/blesshotor/ads-rev-sim)** | How streaming-ads money flows: impressions → ASC 606 rev rec → invoicing → DSP exchange, with an [interactive 3D pipeline](https://blesshotor.github.io/ads-rev-sim-3d.html) |
 | **SafeSynth** | PCI-safe synthetic billing & payments data generator |
 
 ## 🛠️ Stack
