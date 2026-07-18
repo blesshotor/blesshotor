@@ -37,7 +37,7 @@ $21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M fraud
 | ⚡ **[EV Charging Infrastructure Forecast](https://github.com/blesshotor/ev-charging-infrastructure-forecast)** | ML forecasting of charging-station deployment in Washington State — Prophet · XGBoost · ARIMA, equity-focused (M.S. capstone) |
 | ⚡ **[RevGuard](https://github.com/blesshotor/revguard)** | Open-source data assurance engine — 10 controls-as-code catch planted revenue leakage, fee drift & fraud rings, then write audit evidence packs |
 | **FraudLens AI** | LLM copilot that triages fraud anomalies and drafts investigation memos |
-| **SOX-as-Code** | SOX/ICFR controls as executable pipeline checks with auto-generated audit evidence |
+| 🛡️ **[SOX-as-Code](https://github.com/blesshotor/sox-as-code)** | SOX/ICFR controls as executable pipeline checks — YAML catalog, DLT & Great Expectations exports, CI gates, auto-generated audit evidence |
 | **SafeSynth** | PCI-safe synthetic billing & payments data generator |
 
 ## 🛠️ Stack
