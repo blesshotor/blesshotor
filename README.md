@@ -2,7 +2,8 @@
 
 # Bless Hotor
 
-### AI Expert Developer · Data Assurance × ML Engineering Leader
+### Fraud ML & Data Engineering Leader · AI Expert Developer
+#### Data Assurance × Advanced Analytics × Payments
 
 *I make enterprise data trustworthy, intelligent, and fraud-proof.*
 
@@ -34,6 +35,8 @@ $21M+ revenue protected  ·  81/88 CFO processes automated (92%)  ·  $11M fraud
 
 | Project | What it is |
 |---|---|
+| 🧠 **[SeqSense](https://github.com/blesshotor/seqsense)** | Behavioral sequence fraud detection — representation learning + attention with every gradient derived by hand, pure numpy |
+| 🔗 **[ChainIntel](https://chainintel.cowriesmakarios.com/)** | Live crypto fraud interdiction engine — OFAC screening, pig-butchering & mixer typologies, GENIUS Act/MiCA policy profiles, SAR-ready explainable scores |
 | ⚡ **[EV Charging Infrastructure Forecast](https://github.com/blesshotor/ev-charging-infrastructure-forecast)** | ML forecasting of charging-station deployment in Washington State — Prophet · XGBoost · ARIMA, equity-focused (M.S. capstone) |
 | ⚡ **[RevGuard](https://github.com/blesshotor/revguard)** | Open-source data assurance engine — 10 controls-as-code catch planted revenue leakage, fee drift & fraud rings, then write audit evidence packs |
 | **FraudLens AI** | LLM copilot that triages fraud anomalies and drafts investigation memos |
