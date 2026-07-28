@@ -2,7 +2,7 @@
 
 # Bless Hotor
 
-### AI Expert Developer · Data Assurance × Advanced Analytics Engineering Leader
+### AI Expert Developer · Data Assurance × ML Engineering Leader
 
 *I make enterprise data trustworthy, intelligent, and fraud-proof.*
 
